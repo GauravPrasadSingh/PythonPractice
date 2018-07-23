@@ -1,0 +1,3 @@
+c='ram eats a mango'
+c[100]
+IndexError: string index out of range
